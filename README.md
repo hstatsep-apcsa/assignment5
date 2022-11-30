@@ -39,7 +39,7 @@ You will also need to add all of the public constructors and methods which are d
 
 ---
 
-To test your code, you will need to run the `runner_Fraction` class main method. Don't add a main method to your Fraction class as your code will not be checked or scored correctly.
+To test your code, you will need to run the `runner_Fraction` class main method. Don't add a main method to your Fraction class.
 
 This runner class is a little more advanced than some of the others you have seen so far. The runner first creates an initial fraction by using the default constructor which you write in the Fraction class. You then have the option to test each method individually by typing the name of the method, or to create a new Fraction using the other Fraction constructor. When a method requires parameters you'll be asked to input these, and if there is an overloaded method you'll be asked to specify which method signature you want to use by typing 1 or 2.
 
